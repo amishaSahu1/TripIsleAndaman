@@ -1,0 +1,26 @@
+@import "color";
+nav{
+    background-color: rgb(225, 240, 243);
+    width: 100%;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    top: 0;
+    z-index: 10;
+
+  > main{
+    width: 70%;
+    display: flex;
+    justify-content: flex-end;
+  > a{
+    color: $dark;
+    margin: 1rem;
+  &:hover{
+    color: $third;
+  }
+}
+}
+}
+

@@ -1,0 +1,42 @@
+@import "color";
+
+footer{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 100%;
+    color: black;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    padding: 2rem;
+    >div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        >h2{
+            font: 700 2rem "Roboto";
+            text-transform: uppercase;
+            color: black;
+        }
+        >p{
+            font: 500 1.2rem "cursive";
+        }
+    
+        >h5{
+            font: 300 2rem "cursive";
+            margin: 1rem 0;
+            text-align: center;
+        }
+        >div{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            a{
+                color: black;
+                font: 900 1rem "Roboto";
+                &:hover{
+                    color: aqua;
+                }
+            }
+        }
+    }
+}
