@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/TripIsleAndaman/static/css/main.b53b872b.css",
+    "main.js": "/TripIsleAndaman/static/js/main.3db96a94.js",
+    "static/media/scubadiv.jpg": "/TripIsleAndaman/static/media/scubadiv.e475e70f99d3bd561338.jpg",
+    "static/media/parasail.jpg": "/TripIsleAndaman/static/media/parasail.88910f008935292f597e.jpg",
+    "static/media/pic2.jpg": "/TripIsleAndaman/static/media/pic2.548b4d91fd87ec534616.jpg",
+    "static/media/pic4.jpg": "/TripIsleAndaman/static/media/pic4.0d7d57a00b5ab2bc9087.jpg",
+    "static/media/havelock1jpg.jpg": "/TripIsleAndaman/static/media/havelock1jpg.fad9b98fe54f743f07ef.jpg",
+    "static/media/dolphin.jpg": "/TripIsleAndaman/static/media/dolphin.4cadb4e28ca45af32758.jpg",
+    "static/media/profile.jpg": "/TripIsleAndaman/static/media/profile.4b4b7303fe8a0ebb7845.jpg",
+    "static/media/kaya.jpg": "/TripIsleAndaman/static/media/kaya.9affc48c4b212befa14c.jpg",
+    "static/media/pic6.webp": "/TripIsleAndaman/static/media/pic6.2bd5a18603a0da9d32b3.webp",
+    "static/media/food1.webp": "/TripIsleAndaman/static/media/food1.0efac400582879e255e2.webp",
+    "static/media/limestone.jpg": "/TripIsleAndaman/static/media/limestone.125502309dc43714c4ad.jpg",
+    "static/media/marina-park-and-aquarium.jpg": "/TripIsleAndaman/static/media/marina-park-and-aquarium.83b28cd084a362bedc99.jpg",
+    "static/media/chiliifish.webp": "/TripIsleAndaman/static/media/chiliifish.1b85aef4bdb3a3aa0d9c.webp",
+    "static/media/pic5.jpg": "/TripIsleAndaman/static/media/pic5.4e86ddce75a19fa7d586.jpg",
+    "static/media/main-entrance.jpg": "/TripIsleAndaman/static/media/main-entrance.80ba59e90977dad5a8e3.jpg",
+    "static/media/elephanta.jpg": "/TripIsleAndaman/static/media/elephanta.42e1d24334d6fd753f87.jpg",
+    "static/media/kalaphathar.jpg": "/TripIsleAndaman/static/media/kalaphathar.82895ca67cb9b33bb76c.jpg",
+    "static/media/food2.webp": "/TripIsleAndaman/static/media/food2.5983a5d773a8bbc9da91.webp",
+    "static/media/fish.jpg": "/TripIsleAndaman/static/media/fish.04a54f733e6795cb2a18.jpg",
+    "index.html": "/TripIsleAndaman/index.html",
+    "main.b53b872b.css.map": "/TripIsleAndaman/static/css/main.b53b872b.css.map",
+    "main.3db96a94.js.map": "/TripIsleAndaman/static/js/main.3db96a94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53b872b.css",
+    "static/js/main.3db96a94.js"
+  ]
+}
